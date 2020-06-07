@@ -29,6 +29,7 @@ body {
     background: #fff;
     border-radius: 15px 15px 0 0;
     padding: 1em 2em 2em;
+    min-width: 480px;
 }
 
 .first-box h1 {
@@ -60,6 +61,7 @@ body {
     width: 50%;
     border-radius: 0 0 0 15px;
     padding: 1em 2em;
+    min-width: 210px;
 }
 
 .subscription h3{
@@ -95,6 +97,7 @@ body {
 
 .whyus {
     width: 50%;
+    min-width: 210px;
     background-color: #4bb9b8;
     border-radius: 0 0 15px 0;
     padding: 1em 2em;
